@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ElasticRack/Southeast-Startup-Challenge/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ElasticRack/Southeast-Startup-Challenge/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Gamify Health & Fitness
+### IDEAS
+**Trail Card**--
+An app that tracks the distance citizens travel on the bike trail and uploads the the data to a public leader to to challange, inspire and reward participants with hidden (virtual) discount rewards and weekly give aways to top riders and runners from supporting local businesses. 
+**Babylon** -- 
+An app that allows citizens to crowdfund urban garden garden projects that will be counted and in stock in an online and in app grocery store allowing for both on site pick up or at home delivery with Monthly, Weekly, Daily and per meal subscriptions. Besides eliminating 
+typical challanges associated with farm fresh produce we could build thriving communties around farm projects in rual areas outlining larger cities.
+**Where do lunches come from?** Using the open blockchain as a trace route to map the food we serve our children from the schools back through the supply chain to its source allowing us to make more health concious decisions and hold accountable less then healty and business the anctively adds less the healthy substitutions.
