@@ -3,7 +3,7 @@
 
 ### Trail Cards
 
-An app that tracks the distance citizens travel on the bike trail and uploads the the data to a public leader to to challange, inspire and reward participants with hidden (virtual) discount rewards and weekly give aways to top riders and runners from supporting local businesses. 
+An app that tracks the distance citizens travel on the bike trail and uploads the the data to a public leader board to challange, inspire and reward participants with hidden (virtual) discount rewards and weekly give aways to top riders and runners from supporting local businesses. 
 
 
 ### Babylon
