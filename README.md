@@ -1,7 +1,7 @@
 # Southeast-Startup-Challenge
-Pitch ideas to use at the southeast start up challenge in Columbus Ga 
+##ideas for the southeast start up challenge in Columbus Ga 
 
-#Gamify Health & Fitness
+#by CODY ADAMS
 
 ##Pitches
 
