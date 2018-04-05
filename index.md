@@ -1,5 +1,5 @@
-# Gamify Health & Fitness
-## Pitches
+## MY COLUMBUS A HEALTY PLACE
+## By GARRETT ADAMS
 
 ### Trail Cards
 
